@@ -1,1 +1,16 @@
-{    "name": "Test Token",    "symbol": "TEST",    "description": "Test Token Description",    "image": "https://raw.githubusercontent.com/AbdulWahab222/Uploads/main/tokens/assets/images/token-logo.png",    "properties": {        "files": [{            "uri": "https://raw.githubusercontent.com/AbdulWahab222/Uploads/main/tokens/assets/images/token-logo.png",            "type": "image/png"        }]    },    "seller_fee_basis_points": 0,    "creators": null,    "collection": null,    "uses": null} 
+{
+    "name": "Test Token",
+    "symbol": "TEST",
+    "description": "Test Token Description",
+    "image": "https://raw.githubusercontent.com/AbdulWahab222/Uploads/main/tokens/assets/images/token-logo.png",
+    "properties": {
+        "files": [{
+            "uri": "https://raw.githubusercontent.com/AbdulWahab222/Uploads/main/tokens/assets/images/token-logo.png",
+            "type": "image/png"
+        }]
+    },
+    "seller_fee_basis_points": 0,
+    "creators": null,
+    "collection": null,
+    "uses": null
+}
